@@ -14,4 +14,4 @@ je m'appelle AlexCaton .
 
 ## Pourquoi je suis sur Simplononline ?
 
-- Pour devenir un developpeur web junior.
+- Pour devenir un developpeur web.
