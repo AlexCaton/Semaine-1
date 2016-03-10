@@ -1,4 +1,3 @@
-# AlexCaton
 
 Bonjour,
 
@@ -10,7 +9,15 @@ je m'appelle AlexCaton .
 
 ## Formations
 
-- developpement web et mobile a _simplononline_ (*en cours*).
+- Codecademy
+
+- OpenClassRoom
+
+- developpement web a simplonline
+
+- Free Code Camp
+
+- Code School
 
 ## Pourquoi je suis sur Simplononline ?
 
